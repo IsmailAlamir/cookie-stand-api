@@ -9,7 +9,7 @@
 
 ## [heroku URL](https://cookie-stands-ia.herokuapp.com)
 
-## [Pull requests](https://github.com/alaa-adoos/cookie-stand-api/pull/2)
+## [Pull requests](https://github.com/alaa-adoos/cookie-stand-api/pull/1)
 
 #### requirements:
 ```
