@@ -15,4 +15,3 @@
 ```
 pip freeze > requirements.txt
 ```
-cookie-stand-apiz
