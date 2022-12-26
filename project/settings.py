@@ -60,8 +60,8 @@ INSTALLED_APPS = [
     "rest_framework",
     "corsheaders",
     # local
-    "accounts",
-    "things",
+    "accounts", 
+    "cookie_stands",
 ]
 
 MIDDLEWARE = [
